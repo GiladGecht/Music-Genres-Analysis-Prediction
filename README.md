@@ -4,5 +4,6 @@
 
 ###### The data is taken from www.kaggle.com
 You can find the data in the following google drive since it is too big to upload to github
+https://drive.google.com/drive/folders/1nlCN8LiOU95Lgl8mRwgkfOfkQhPmzqOg?usp=sharing
 
 * Description about the data and the project is written inside the ppt file
